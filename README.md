@@ -3,7 +3,7 @@
 <h2> Cyber security  Projects:</h2>
 
 
-  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Homelab](https://github.com/DY-CB/Active-Directory-Lab)
   - [SIEM HOME LAB](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 📂Certifications</h2>
