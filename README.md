@@ -1,11 +1,11 @@
 <h1>Hi, I'm Oladayo Michael! <h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  - [Active Directory Lab (https://github.com/joshmadakor1/Algorithms-Practice)
+  -[Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>Certifications</h2>
-- [Cisco Introduction to Cyber security (https://github.com/joshmadakor1/Algorithms-Practice)
+- [Cisco Introduction to Cyber security ](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📺 Popular YouTube Videos</h2>
