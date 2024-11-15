@@ -54,8 +54,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-
-  - [CISCO Introduction to Cybersecurity](https://github.com/joshmadakor1/Algorithms-Practice)
+[CISCO Introduction to Cybersecurity](https://www.credly.com/badges/f9b91a6f-2f9a-4604-ab2c-5941f2022da3/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
