@@ -19,7 +19,7 @@ I hold an **MSc in Cybersecurity** from Sheffield Hallam University, where I bui
 
 Currently a **DevSecOps Trainee at Cyber Agoge**, working with AWS, Terraform, Docker, Kubernetes, and Security Onion to automate security into real infrastructure pipelines.
 
-- 🔐 ISO 27001 Certified (British Assessment Bureau)
+- 🔐 Implementing ISO 27001 Certified (British Assessment Bureau)
 - ☁️ AWS Cloud Practitioner — *In Progress*
 - ⎈ Certified Kubernetes Administrator (CKA) — *In Progress*
 - 🛡️ CompTIA Security+ — *In Progress*
@@ -94,21 +94,14 @@ Simulated enterprise environment for practising identity and access management, 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DY-CB&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DY-CB&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
 
----
-
-## 🤝 Connect
+## 🤝 Connect 
 
 I'm actively seeking entry-level **DevSecOps, Cloud Security, or SOC Analyst** roles — hybrid or remote in the UK — particularly in **Tech/SaaS, Financial Services, or Healthcare/NHS**.
 
 <p align="center">
-  <a href="https://linkedin.com/in/oladayo-michael-suara">
+  <a href="https://https://www.linkedin.com/in/oladayosuara/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
