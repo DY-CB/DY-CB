@@ -4,7 +4,7 @@
 <h4 align="center">MSc Cybersecurity · Sheffield Hallam University · United Kingdom</h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/oladayo-michael-suara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/oladayosuara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-DevSecOps%20%7C%20Cloud%20Security%20%7C%20SOC-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-United%20Kingdom-blue?style=for-the-badge"/>
 </p>
