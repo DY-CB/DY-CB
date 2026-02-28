@@ -29,7 +29,7 @@ Currently a **DevSecOps Trainee at Cyber Agoge**, working with AWS, Terraform, D
 
 ## 🚀 Featured Projects
 
-### 🔍 [secops — DevSecOps CI/CD Security Pipeline](https://github.com/DY-CB/secops)
+### 🔍 [devsecops-aws-pipeline — DevSecOps CI/CD Security Pipeline](https://github.com/DY-CB/secops)
 > **Terraform · AWS · GitHub Actions · Trivy · CodeQL · SAST · SCA · IaC Scanning**
 
 Implements a full Secure Software Development Lifecycle (SSDLC) inside a GitHub Actions CI/CD pipeline. Automates SAST (CodeQL), SCA (Trivy), and IaC scanning (Terraform Compliance + Trivy) with PR blocking on Critical/High vulnerabilities. Enforces shift-left security principles across AWS infrastructure.
@@ -96,17 +96,14 @@ Simulated enterprise environment for practising identity and access management, 
 
 
 
-## 🤝 Connect 
+---
+
+## 🤝 Connect
 
 I'm actively seeking entry-level **DevSecOps, Cloud Security, or SOC Analyst** roles — hybrid or remote in the UK — particularly in **Tech/SaaS, Financial Services, or Healthcare/NHS**.
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/oladayosuara/">
+  <a href="https://linkedin.com/in/oladayosuara">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
-
-
-
