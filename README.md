@@ -1,109 +1,364 @@
-<h1 align="center">Hi, I'm Oladayo Michael Suara 👋</h1>
+<div align="center">
 
-<h3 align="center">DevSecOps Engineer · Cloud Security · SOC Analyst</h3>
-<h4 align="center">MSc Cybersecurity · Sheffield Hallam University · United Kingdom</h4>
+# 👋 Hi, I'm Oladayo Suara
 
-<p align="center">
-  <a href="https://linkedin.com/in/oladayosuara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-DevSecOps%20%7C%20Cloud%20Security%20%7C%20SOC-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-United%20Kingdom-blue?style=for-the-badge"/>
+### 🛡️ Cybersecurity | SOC Analyst Pathway | IT Infrastructure & DevSecOps
+
+<p>
+MSc Cybersecurity graduate and <strong>CompTIA Security+ certified</strong> professional with experience across
+<strong>IT Service Desk, IT Operations, Technical Support and Cybersecurity labs.</strong>
+</p>
+
+<p>
+Focused on building practical skills across <strong>Security Operations, Threat Detection, Incident Response,
+Active Directory Security, Cloud Security and DevSecOps.</strong>
+</p>
+
+<br>
+
+<a href="https://www.linkedin.com/in/oladayosuara/">
+  <img src="https://img.shields.io/badge/LinkedIn-Oladayo%20Suara-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:michael.oladayohq@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+</a>
+
+<img src="https://img.shields.io/badge/Location-United%20Kingdom-success?style=for-the-badge">
+
+</div>
+
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Background
+
+- MSc Cybersecurity  
+  **Sheffield Hallam University**
+
+- BSc Computer Science & Information Technology
+
+- CompTIA Security+ Certified
+
+- ISO 27001 Training
+
+- IT Service Desk & IT Operations background
+
+</td>
+
+<td width="50%">
+
+### 🎯 Career Focus
+
+- SOC Analyst
+- Cybersecurity Analyst
+- Security Operations
+- Threat Detection
+- Incident Response
+- Junior Cloud Security
+- DevSecOps
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🛡️ Cybersecurity Focus</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><strong>🔍 Threat Detection</strong></td>
+<td align="center"><strong>🚨 Incident Response</strong></td>
+<td align="center"><strong>📊 SIEM</strong></td>
+</tr>
+
+<tr>
+<td align="center">Suricata</td>
+<td align="center">Alert Investigation</td>
+<td align="center">Security Onion</td>
+</tr>
+
+<tr>
+<td align="center"><strong>🖥️ Active Directory</strong></td>
+<td align="center"><strong>☁️ Cloud Security</strong></td>
+<td align="center"><strong>🔐 Vulnerability Management</strong></td>
+</tr>
+
+<tr>
+<td align="center">Windows / AD / DNS</td>
+<td align="center">AWS / Terraform</td>
+<td align="center">Nessus / OWASP</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">🧰 Technical Toolkit</h2>
+
+<h3>🛡️ Security Operations</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Security%20Onion-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Suricata-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Nessus-000000?style=flat-square">
+<img src="https://img.shields.io/badge/SIEM-000000?style=flat-square">
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Incident%20Response-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Threat%20Detection-000000?style=flat-square">
+</p>
+
+<h3>🖥️ Windows & IT Infrastructure</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Windows%2010%2F11-0078D4?style=flat-square&logo=windows">
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square">
+<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice">
+<img src="https://img.shields.io/badge/Exchange-0078D4?style=flat-square">
+<img src="https://img.shields.io/badge/DNS-444444?style=flat-square">
+<img src="https://img.shields.io/badge/DHCP-444444?style=flat-square">
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware">
+</p>
+
+<h3>☁️ Cloud & DevSecOps</h3>
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions">
+<img src="https://img.shields.io/badge/CI%2FCD-444444?style=flat-square">
+</p>
+
+<h3>💻 Programming & Automation</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github">
 </p>
 
 ---
 
-## 🧠 About Me
+<h2 align="center">🚀 Featured Projects</h2>
 
-I'm a cybersecurity engineer focused on **shifting security left** — embedding it into cloud infrastructure, CI/CD pipelines, and application architecture from day one, not as an afterthought.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I hold an **MSc in Cybersecurity** from Sheffield Hallam University, where I built and validated a cloud-hosted Python security audit tool that achieved **100% precision** scanning 12 live web applications across 5 OWASP-critical vulnerability classes — outperforming SSL Labs and Mozilla Observatory on holistic coverage.
+<h3>🖥️ Active Directory Security Lab</h3>
 
-Currently a **DevSecOps Trainee at Cyber Agoge**, working with AWS, Terraform, Docker, Kubernetes, and Security Onion to automate security into real infrastructure pipelines.
+<strong>Windows | Active Directory | DNS | Networking | Security</strong>
 
-- 🔐 Implementing ISO 27001 Certified (British Assessment Bureau)
-- ☁️ AWS Cloud Practitioner — *In Progress*
-- ⎈ Certified Kubernetes Administrator (CKA) — *In Progress*
-- 🛡️ CompTIA Security+ — *In Progress*
-- 🎯 Target roles: **DevSecOps Engineer · Cloud Security Engineer · SOC Analyst**
+<br><br>
+
+Built a practical Windows enterprise lab focused on:
+
+<ul>
+<li>Active Directory administration</li>
+<li>User & group management</li>
+<li>Windows domain joining</li>
+<li>DNS troubleshooting</li>
+<li>Authentication issues</li>
+<li>Windows Event Logs</li>
+<li>Security monitoring</li>
+<li>Common IT support scenarios</li>
+</ul>
+
+<a href="https://github.com/DY-CB/Active-Directory-Lab">
+<strong>🔗 View Project</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>☁️ AWS DevSecOps Pipeline</h3>
+
+<strong>AWS | Terraform | GitHub Actions | Security</strong>
+
+<br><br>
+
+Practical DevSecOps project exploring:
+
+<ul>
+<li>Infrastructure as Code</li>
+<li>AWS infrastructure</li>
+<li>IAM security</li>
+<li>CI/CD security</li>
+<li>Vulnerability scanning</li>
+<li>Container security</li>
+<li>Automated security checks</li>
+</ul>
+
+<a href="https://github.com/DY-CB/devsecops-aws-pipeline">
+<strong>🔗 View Project</strong>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔐 Web Security Audit Tool</h3>
+
+<strong>Python | OWASP | Vulnerability Assessment</strong>
+
+<br><br>
+
+MSc Cybersecurity dissertation project.
+
+<ul>
+<li>Assessed 5 web-security areas</li>
+<li>Evaluated 12 live web applications</li>
+<li>Recorded 100% precision in dissertation testing</li>
+<li>Zero false positives in the evaluation</li>
+<li>15-person usability study</li>
+<li>8.1/10 satisfaction score</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🐍 Python Security Tools</h3>
+
+<strong>Python | Automation | SOC</strong>
+
+<br><br>
+
+Collection of practical Python projects focused on:
+
+<ul>
+<li>Security automation</li>
+<li>Threat intelligence concepts</li>
+<li>SOC workflows</li>
+<li>Log analysis</li>
+<li>Security scripting</li>
+</ul>
+
+<a href="https://github.com/DY-CB/python-security-tools">
+<strong>🔗 View Project</strong>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">💼 Professional Journey</h2>
 
-### 🔍 [devsecops-aws-pipeline — DevSecOps CI/CD Security Pipeline](https://github.com/DY-CB/secops)
-> **Terraform · AWS · GitHub Actions · Trivy · CodeQL · SAST · SCA · IaC Scanning**
+<div align="center">
 
-Implements a full Secure Software Development Lifecycle (SSDLC) inside a GitHub Actions CI/CD pipeline. Automates SAST (CodeQL), SCA (Trivy), and IaC scanning (Terraform Compliance + Trivy) with PR blocking on Critical/High vulnerabilities. Enforces shift-left security principles across AWS infrastructure.
+<strong>IT Service Desk Internship</strong>
+<br>
+⬇️
+<br>
+<strong>IT Operations & Customer Support</strong>
+<br>
+⬇️
+<br>
+<strong>MSc Cybersecurity</strong>
+<br>
+⬇️
+<br>
+<strong>Cybersecurity & DevSecOps Training</strong>
+<br>
+⬇️
+<br>
+<strong>Security Operations / SOC Career Path</strong>
 
----
-
-### 🔒 [Web Application Security Audit Tool](https://github.com/DY-CB/secops) *(MSc Dissertation)*
-> **Python · Google Colab · OWASP Top 10 · SSL/TLS · HTTP Security Headers**
-
-Cloud-hosted Python security audit tool designed for SMEs without dedicated security teams. Scanned 12 live web applications with **100% precision (0 false positives)**, cut manual assessment time by **130+ minutes per audit**, and achieved **8.1/10 user satisfaction** from a 15-participant study. Covers HTTP security headers, SSL/TLS configuration, directory exposure, authentication weaknesses, and information disclosure.
-
----
-
-### 🏠 [Active Directory Home Lab](https://github.com/DY-CB/Active-Directory-Lab)
-> **Active Directory · Windows Server · SIEM · Threat Detection**
-
-Simulated enterprise environment for practising identity and access management, group policy hardening, and SIEM-based threat detection.
-
----
-
-## 🛠️ Tech Stack
-
-**Cloud & IaC**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-**Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Security & SIEM**
-
-![Security Onion](https://img.shields.io/badge/Security%20Onion-SIEM%2FIDS-green?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-00BFFF?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**DevSecOps Toolchain**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-IaC%2FSCA%20Scanner-blue?style=for-the-badge)
-![CodeQL](https://img.shields.io/badge/CodeQL-SAST-purple?style=for-the-badge)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-Terraform-7B42BC?style=for-the-badge)
+</div>
 
 ---
 
-## 📜 Certifications
+<h2 align="center">📜 Certifications</h2>
 
-| Certification | Issuer | Status |
-|---|---|---|
-| Implementing ISO 27001 | British Assessment Bureau | ✅ Issued Jul 2025 |
-| ICS 100 – Incident Command | FEMA | ✅ Issued Apr 2024 |
-| AWS Certified Cloud Practitioner | Amazon Web Services | 🔄 In Progress |
-| Certified Kubernetes Administrator (CKA) | CNCF | 🔄 In Progress |
-| CompTIA Security+ | CompTIA | 🔄 In Progress |
+<div align="center">
+
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia">
+
+<img src="https://img.shields.io/badge/ISO%2027001-Information%20Security-005B96?style=for-the-badge">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<strong>CompTIA Security+ — Certified ✅</strong>
+
+<br>
+
+<strong>ISO 27001 — Implementing Information Security Management Systems ✅</strong>
+
+<br>
+
+<strong>ICS 100 — Introduction to Incident Command System ✅</strong>
+
+</div>
 
 ---
 
+<h2 align="center">📈 Currently Developing</h2>
 
+<table align="center">
+<tr>
+<td>
+
+🔹 Active Directory security investigations  
+🔹 Windows Event Log analysis  
+🔹 SOC alert triage  
+🔹 SIEM detection engineering  
+🔹 PowerShell for security & administration  
+🔹 AWS security  
+🔹 DevSecOps automation  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
-I'm actively seeking entry-level **DevSecOps, Cloud Security, or SOC Analyst** roles — hybrid or remote in the UK — particularly in **Tech/SaaS, Financial Services, or Healthcare/NHS**.
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/oladayosuara">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+I'm currently interested in opportunities across:
+
+<strong>
+SOC Analysis • Cybersecurity Analysis • Security Operations • IT Security • Junior Cloud Security
+</strong>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/oladayosuara/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:michael.oladayohq@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<i>Building stronger security skills one lab, investigation and project at a time.</i>
+
+</div>
